@@ -1,3 +1,51 @@
+
+
+Application
+CodeFactor
+Set up a free trial
+ GitHub has verified that the publisher controls the domain and meets other requirements.
+Categories
+
+Code quality Recently added  Free Trials Free  Paid
+Supported languages
+
+C#, C++, CSS
+and  7 other languages supported
+Developer
+
+@codefactor-io codefactor-io
+Verified domains
+
+codefactor.io
+www.codefactor.io
+Developer links
+
+Support
+Documentation
+Privacy Policy
+Terms of Service
+Report abuse
+Ensure that your code meets quality standards
+
+CodeFactor instantly performs Code Review with every GitHub Commit or PR. Zero setup time. Get actionable feedback within seconds. Customize rules, get refactoring tips and ignore irrelevant issues.
+
+Languages
+
+Bash, C, C#, C++, CoffeeScript, CSS, Dockerfile, Go, Groovy, Java, JS, Kotlin, Less, PHP, Python, Ruby, Scala, SCSS, Sugar SS, Swift, TypeScript and YAML.
+
+Autofix
+
+Autofix certain reported issues on-demand or automatically.
+
+Read more...
+
+Reporting inside PR via Checks feature.
+
+
+
+
+
+
 ### Hi there 👋
 
 [![tatsy's github stats](https://github-readme-stats.vercel.app/api?username=tatsy)](https://github.com/anuraghazra/github-readme-stats)
